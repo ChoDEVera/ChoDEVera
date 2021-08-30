@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ChoDEVera
+- 👀 I’m interested in building relevant things
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on nothing at the moment
+- 📫 How to reach me through my e-mail
